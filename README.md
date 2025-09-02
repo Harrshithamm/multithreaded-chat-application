@@ -39,3 +39,10 @@ Techniques for message broadcasting and synchronization.
 The importance of error handling in network-based applications.
 
 By completing this project, interns gain practical knowledge of real-time communication systems, which are fundamental for building applications like chat rooms, collaborative tools, and messaging platforms.
+
+#output:
+<img width="543" height="165" alt="Image" src="https://github.com/user-attachments/assets/527d2531-1946-4ba9-9f97-bc18a998b716" />
+
+<img width="881" height="246" alt="Image" src="https://github.com/user-attachments/assets/96b3a124-f803-48f6-936a-80d482d4791d" />
+
+<img width="884" height="243" alt="Image" src="https://github.com/user-attachments/assets/8b229cf3-c5f1-4adf-a5de-22a50f9af37f" />
